@@ -1,25 +1,19 @@
 .. My Spreadsheet
 
 ***********************
-My Spreadsheet
+Schedule
 ***********************
 
 Introduction
 ============
 
-This is the introduction to my document.
+Please find the schedule for the TinyML course below
 
-My Spreadsheet
-==============
+.. raw:: html
 
-Here is a link to an external spreadsheet:
-
-.. csv-table:: External Spreadsheet
-   :file: path/to/spreadsheet.csv
-   :header: "Name", "Age", "Country"
-   :widths: 15, 10, 15
+   <iframe src="https://docs.google.com/spreadsheets/d/15NhWs41SMqgMNtThJUJDJ5nqhBOybxX-Ll4fhEmHe-g/edit?usp=sharing" width="600" height="400"></iframe>
 
 Conclusion
 ==========
 
-This is the conclusion to my document.
+This document is being updated regularly. Contact the staff if you have any confusion.

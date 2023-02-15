@@ -1,4 +1,4 @@
-Usage
+Homepage
 =====
 
 .. _installation:
