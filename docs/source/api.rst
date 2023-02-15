@@ -37,6 +37,13 @@ Here's where I can add links to any videos I want to include on my website. I ca
 * `Watch my first video <#video1>`_
 * `Watch my second video <#video2>`_
 
+Schedule
+==========
+
+.. raw:: html
+
+   <iframe src="https://docs.google.com/spreadsheets/d/15NhWs41SMqgMNtThJUJDJ5nqhBOybxX-Ll4fhEmHe-g/edit?usp=sharing" width="600" height="400"></iframe>
+
 
 Resources
 ==========

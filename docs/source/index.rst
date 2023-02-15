@@ -15,7 +15,6 @@ Contents
 
 .. toctree::
    api
-   Schedule
    module
    module2
    module3
