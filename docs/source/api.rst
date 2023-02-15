@@ -40,8 +40,9 @@ Sample Projects : Fall 22
 
 Here's where I can add links to any videos I want to include on my website. I can use the `:ref:` directive to link to a specific section in my document. For example:
 
-* `Watch my first video <#video1>`_
-* `Watch my second video <#video2>`_
+* `TinyML robot <#https://www.youtube.com/embed/watch?v=-Rn3QVjB8PA>`_
+* `Pedestrian light detection <#https://www.youtube.com/embed/watch?v=e5NfGWAu06Q>`_
+* `DnD dice reader <#https://www.youtube.com/embed/watch?v=c7OoO8QS2fg&t=1s>`_
 
 Schedule
 ==========
