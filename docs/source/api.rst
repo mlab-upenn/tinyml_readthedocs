@@ -12,7 +12,13 @@ TinyML @ UPenn
 Introduction
 ============
 
+
 This is a website which contains all the information about the TinyML course being taught at UPenn. 
+
+.. image:: imgs/tinyml.jpg
+   :alt: My image
+   :width: 400
+   :align: center
 
 Main Content
 ============
