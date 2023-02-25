@@ -15,7 +15,6 @@ Contents
 
 .. toctree::
    api
-   module
-   module2
-   module3
-   keyword
+   module1/index
+   module2/index
+   module3/index
