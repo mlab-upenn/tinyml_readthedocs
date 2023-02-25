@@ -18,3 +18,4 @@ Contents
    module
    module2
    module3
+   keyword
