@@ -14,10 +14,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget elit sit amet 
 Embedded Slides
 ---------------
 
-.. raw:: html
+To view the PDF file, click on the following link:
 
-   <object data="https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing"
-           width="100%" height="500px" type="text/html"></object>
+`PDF File <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing>`_
 
 
 YouTube Video 1
