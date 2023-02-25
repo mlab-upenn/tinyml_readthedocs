@@ -4,22 +4,20 @@ Lecture 4
 Introduction
 ------------
 
-This is an example page with spaces for text and YouTube video embedding.
+Here, we have the basic Introduction text to Lecture 4.
 
-Text Section 1
+Lecture 4.1
 --------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget elit sit amet sapien placerat gravida. Fusce a dui ac risus venenatis blandit. Nam sit amet velit nec mauris hendrerit aliquam vel in metus. Sed id neque est. 
+Here, we have the basic Introduction text to Lecture 4.1
 
-Embedded Slides
+Lecture 4.1 - 
 ---------------
 
-To view the PDF file, click on the following link:
-
-`PDF File <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing>`_
+`Lecture 4.1 <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
 
 
-YouTube Video 1
+Lecture video 4.1
 ---------------
 
 .. raw:: html
@@ -29,12 +27,17 @@ YouTube Video 1
     </div>
 
 
-Text Section 2
+Lecture 4.2
 --------------
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+Here, we have the basic Introduction text to Lecture 4.2
 
-YouTube Video 2
+Lecture 4.2 - 
+---------------
+
+`Lecture 4.2 <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_
+
+Lecture Video 4.2
 ---------------
 
 .. raw:: html
@@ -42,3 +45,56 @@ YouTube Video 2
     <div style="text-align:center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7vglHVGMcg" frameborder="0" allowfullscreen></iframe>
     </div>
+
+
+Lecture 4.3
+--------------
+Here, we have the basic Introduction text to Lecture 4.3
+
+Lecture 4.3 - 
+---------------
+
+`Lecture 4.3 <https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_
+
+Lecture Video 4.3
+---------------
+.. raw:: html
+
+    <div style="text-align:center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4jjEKJ7l9wM" frameborder="0" allowfullscreen></iframe>
+    </div>  
+
+.. Lecture 4.4
+.. --------------
+.. Here, we have the basic Introduction text to Lecture 4.4
+
+.. Lecture 4.4 - 
+.. ---------------
+
+.. `Lecture 4.4 <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
+
+.. Lecture Video 4.4
+.. ---------------
+.. .. raw:: html
+
+..     <div style="text-align:center">
+..     <iframe width="560" height="315" src="https://www.youtube.com/embed/4Z4Z4Z4Z4Z4" frameborder="0" allowfullscreen></iframe>
+..     </div>
+
+.. Lecture 4.5
+.. --------------
+.. Here, we have the basic Introduction text to Lecture 4.5
+
+.. Lecture 4.5 - 
+.. ---------------
+
+.. `Lecture 4.5 <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
+
+.. Lecture Video 4.5
+.. ---------------
+.. .. raw:: html
+
+..     <div style="text-align:center">
+..     <iframe width="560" height="315" src="https://www.youtube.com/embed/4Z4Z4Z4Z4Z4" frameborder="0" allowfullscreen></iframe>
+..     </div>
+
