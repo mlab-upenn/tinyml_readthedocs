@@ -14,7 +14,7 @@ Here, we have the basic Introduction text to Lecture 5.1
 Lecture 5.1 - 
 ---------------
 
-`Lecture 5.1 <https://drive.google.com/file/d/1WOyM8XzomvAPFEQJAimAljE0tV6eSlHM/view?usp=sharing target="_blank">`_
+`Lecture 5.1 <https://drive.google.com/file/d/1WOyM8XzomvAPFEQJAimAljE0tV6eSlHM/view?usp=sharing">`_{:target="_blank"}
 
 
 Lecture video 5.1
@@ -35,7 +35,7 @@ Here, we have the basic Introduction text to Lecture 5.2
 Lecture 5.2 - 
 ---------------
 
-`Lecture 5.2 <https://drive.google.com/file/d/1VzOAgAdz-Ub1TyWzSq37OCy2xMidBvo3/view?usp=sharing target="_blank">`_
+`Lecture 5.2 <https://drive.google.com/file/d/1VzOAgAdz-Ub1TyWzSq37OCy2xMidBvo3/view?usp=sharing">`_{:target="_blank"}
 
 Lecture Video 5.2
 ---------------
@@ -54,7 +54,7 @@ Here, we have the basic Introduction text to Lecture 5.3
 Lecture 5.3 - 
 ---------------
 
-`Lecture 5.3 <https://drive.google.com/file/d/1matM_yNjozkzcPnEVX8LqvyBdTmAU8Q3/view?usp=sharing target="_blank">`_
+`Lecture 5.3 <https://drive.google.com/file/d/1matM_yNjozkzcPnEVX8LqvyBdTmAU8Q3/view?usp=sharing">`_{:target="_blank"}
 
 Lecture Video 5.3
 ---------------
