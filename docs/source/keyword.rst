@@ -26,7 +26,7 @@ YouTube Video 1
 .. raw:: html
 
     <div style="text-align:center">
-    <iframe width="560" height="315" src="https://youtu.be/BwZD4Cqi9h0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BwZD4Cqi9h0" frameborder="0" allowfullscreen></iframe>
     </div>
 
 
@@ -41,5 +41,5 @@ YouTube Video 2
 .. raw:: html
 
     <div style="text-align:center">
-    <iframe width="560" height="315" src="https://youtu.be/Z7vglHVGMcg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7vglHVGMcg" frameborder="0" allowfullscreen></iframe>
     </div>
