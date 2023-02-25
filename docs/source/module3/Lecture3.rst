@@ -1,67 +1,67 @@
-Lecture 2
+Lecture 3
 ===============================
 
 Introduction
 ------------
 
-Here, we have the basic Introduction text to Lecture 2.
+Here, we have the basic Introduction text to Lecture 3.
 
-Lecture 2.1
+Lecture 3.1
 --------------
 
-Here, we have the basic Introduction text to Lecture 2.1
+Here, we have the basic Introduction text to Lecture 3.1
 
-Lecture 2.1 - 
+Lecture 3.1 - 
 ---------------
 
-`Lecture 2.1 <https://drive.google.com/file/d/1WOyM8XzomvAPFEQJAimAljE0tV6eSlHM/view?usp=sharing">`_
+`Lecture 3.1 <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
 
 
-Lecture video 2.1
+Lecture video 3.1
 ---------------
 
 .. raw:: html
 
     <div style="text-align:center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_KnlZcr70oM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BwZD4Cqi9h0" frameborder="0" allowfullscreen></iframe>
     </div>
 
 
-Lecture 2.2
+Lecture 3.2
 --------------
 
-Here, we have the basic Introduction text to Lecture 2.2
+Here, we have the basic Introduction text to Lecture 3.2
 
-Lecture 2.2 - 
+Lecture 3.2 - 
 ---------------
 
-`Lecture 2.2 <https://drive.google.com/file/d/1VzOAgAdz-Ub1TyWzSq37OCy2xMidBvo3/view?usp=sharing">`_
+`Lecture 3.2 <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_
 
-Lecture Video 2.2
+Lecture Video 3.2
 ---------------
 
 .. raw:: html
 
     <div style="text-align:center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2Re0Rurw61k" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7vglHVGMcg" frameborder="0" allowfullscreen></iframe>
     </div>
 
 
-Lecture 2.3
+Lecture 3.3
 --------------
-Here, we have the basic Introduction text to Lecture 2.3
+Here, we have the basic Introduction text to Lecture 3.3
 
-Lecture 2.3 - 
+Lecture 3.3 - 
 ---------------
 
-`Lecture 2.3 <https://drive.google.com/file/d/1matM_yNjozkzcPnEVX8LqvyBdTmAU8Q3/view?usp=sharing">`_
+`Lecture 3.3 <https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_
 
-Lecture Video 2.3
+Lecture Video 3.3
 ---------------
 .. raw:: html
 
     <div style="text-align:center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/p6fcvXH_j6w" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4jjEKJ7l9wM" frameborder="0" allowfullscreen></iframe>
     </div>  
 
 .. Lecture 4.4

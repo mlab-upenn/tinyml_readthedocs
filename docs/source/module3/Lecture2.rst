@@ -1,23 +1,23 @@
-Lecture 5
+Lecture 2
 ===============================
 
 Introduction
 ------------
 
-Here, we have the basic Introduction text to Lecture 5.
+Here, we have the basic Introduction text to Lecture 2.
 
-Lecture 5.1
+Lecture 2.1
 --------------
 
-Here, we have the basic Introduction text to Lecture 5.1
+Here, we have the basic Introduction text to Lecture 2.1
 
-Lecture 5.1 - 
+Lecture 2.1 - 
 ---------------
 
-`Lecture 5.1 <https://drive.google.com/file/d/1WOyM8XzomvAPFEQJAimAljE0tV6eSlHM/view?usp=sharing">`_{:target="_blank"}
+`Lecture 2.1 <https://drive.google.com/file/d/1WOyM8XzomvAPFEQJAimAljE0tV6eSlHM/view?usp=sharing">`_
 
 
-Lecture video 5.1
+Lecture video 2.1
 ---------------
 
 .. raw:: html
@@ -27,17 +27,17 @@ Lecture video 5.1
     </div>
 
 
-Lecture 5.2
+Lecture 2.2
 --------------
 
-Here, we have the basic Introduction text to Lecture 5.2
+Here, we have the basic Introduction text to Lecture 2.2
 
-Lecture 5.2 - 
+Lecture 2.2 - 
 ---------------
 
-`Lecture 5.2 <https://drive.google.com/file/d/1VzOAgAdz-Ub1TyWzSq37OCy2xMidBvo3/view?usp=sharing">`_{:target="_blank"}
+`Lecture 2.2 <https://drive.google.com/file/d/1VzOAgAdz-Ub1TyWzSq37OCy2xMidBvo3/view?usp=sharing">`_
 
-Lecture Video 5.2
+Lecture Video 2.2
 ---------------
 
 .. raw:: html
@@ -47,16 +47,16 @@ Lecture Video 5.2
     </div>
 
 
-Lecture 5.3
+Lecture 2.3
 --------------
-Here, we have the basic Introduction text to Lecture 5.3
+Here, we have the basic Introduction text to Lecture 2.3
 
-Lecture 5.3 - 
+Lecture 2.3 - 
 ---------------
 
-`Lecture 5.3 <https://drive.google.com/file/d/1matM_yNjozkzcPnEVX8LqvyBdTmAU8Q3/view?usp=sharing">`_{:target="_blank"}
+`Lecture 2.3 <https://drive.google.com/file/d/1matM_yNjozkzcPnEVX8LqvyBdTmAU8Q3/view?usp=sharing">`_
 
-Lecture Video 5.3
+Lecture Video 2.3
 ---------------
 .. raw:: html
 
