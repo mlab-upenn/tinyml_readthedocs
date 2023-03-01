@@ -87,13 +87,12 @@ Here, we have the basic Introduction text to Lecture 4.3
 
    <style>
    .custom-warning {
-       border: 1px solid #e6db74;
-       background-color: #fdfd96;
+       background-color: #f0b37e;
        padding: 10px;
    }
    .custom-warning > .admonition-title {
-       color: #b58900;
-       background-color: #fdfd96;
+       color: #ffffff;
+       background-color: #f0b37e;
        padding: 5px;
    }
    </style>
