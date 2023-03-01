@@ -11,6 +11,9 @@ Lecture 4.1
 
 Here, we have the basic Introduction text to Lecture 4.1
 
+.. note::
+   The goal of the lecture is as follows:
+
 Lecture 4.1 - 
 ---------------
 
@@ -64,17 +67,17 @@ Lecture Video 4.3
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4jjEKJ7l9wM" frameborder="0" allowfullscreen></iframe>
     </div>  
 
-Tutorials
---------------
-Here, we have the links for the tutorials for this lecture.
+.. warning:: Tutorials
 
-`Tutorials 1.1 <https://colab.research.google.com/drive/1LQiOlZuJAbs8uqWmQ8hUH7gmzTh1pkUK?usp=sharing>`_
+    Here, we have the links for the tutorials for this lecture.
 
-.. raw:: html
+    `Tutorials 1.1 <https://colab.research.google.com/drive/1LQiOlZuJAbs8uqWmQ8hUH7gmzTh1pkUK?usp=sharing>`_
 
-    <div style="text-align:center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/p6fcvXH_j6w" frameborder="0" allowfullscreen></iframe>
-    </div>  
+    .. raw:: html
+
+        <div style="text-align:center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/p6fcvXH_j6w" frameborder="0" allowfullscreen></iframe>
+        </div>  
 
 Required Readings 
 --------------
