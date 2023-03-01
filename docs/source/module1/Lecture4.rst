@@ -68,6 +68,21 @@ Lecture Video 4.3
     </div>  
 
 
+
+.. note::
+   :class: custom-note
+
+   This is a custom note message.
+
+.. raw:: html
+
+   <style>
+   .custom-note > .admonition-title {
+       background-color: yellow;
+   }
+   </style>
+
+
 .. admonition:: **Tutorials**
    :class: custom-warning
     Here, we have the links for the tutorials for this lecture.
