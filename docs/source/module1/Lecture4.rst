@@ -12,7 +12,7 @@ Lecture 4.1
 Here, we have the basic Introduction text to Lecture 4.1
 
 .. note::
-   The goal of the lecture is as follows:  \
+   The goal of the lecture is as follows:  |
    Expected Learning time : 25 mins 
 
 Lecture 4.1 - 
@@ -67,6 +67,34 @@ Here, we have the basic Introduction text to Lecture 4.3
    <style>
    .custom-note > .admonition-title {
        background-color: yellow;
+   }
+   </style>
+
+.. admonition:: **Tutorials**
+   :class: custom-warning
+
+    Here, we have the links for the tutorials for this lecture.
+
+    `Tutorials 1.1 <https://colab.research.google.com/drive/1LQiOlZuJAbs8uqWmQ8hUH7gmzTh1pkUK?usp=sharing>`_
+
+    .. raw:: html
+
+        <div style="text-align:center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/p6fcvXH_j6w" frameborder="0" allowfullscreen></iframe>
+        </div>  
+
+.. raw:: html
+
+   <style>
+   .custom-warning {
+       border: 1px solid #e6db74;
+       background-color: #fdfd96;
+       padding: 10px;
+   }
+   .custom-warning > .admonition-title {
+       color: #b58900;
+       background-color: #fdfd96;
+       padding: 5px;
    }
    </style>
 
