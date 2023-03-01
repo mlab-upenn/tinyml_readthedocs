@@ -12,7 +12,7 @@ Lecture 4.1
 Here, we have the basic Introduction text to Lecture 4.1
 
 .. note::
-   The goal of the lecture is as follows:
+   The goal of the lecture is as follows:  \
    Expected Learning time : 25 mins 
 
 Lecture 4.1 - 
@@ -27,9 +27,9 @@ Lecture video 4.1
 .. raw:: html
 
     <div style="text-align:center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BwZD4Cqi9h0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BwZD4Cqi9h0" frameborder="0" allowfullscreen></iframe> 
     </div>
-
+\
 
 Lecture 4.2
 --------------
@@ -39,8 +39,7 @@ Here, we have the basic Introduction text to Lecture 4.2
 Lecture 4.2 - 
 ---------------
 
-`Lecture 4.2 <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_
-
+`Lecture 4.2 <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_ \
 Lecture Video 4.2
 ---------------
 
@@ -50,6 +49,7 @@ Lecture Video 4.2
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7vglHVGMcg" frameborder="0" allowfullscreen></iframe>
     </div>
 
+\
 
 Lecture 4.3
 --------------
@@ -68,7 +68,7 @@ Lecture Video 4.3
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4jjEKJ7l9wM" frameborder="0" allowfullscreen></iframe>
     </div>  
 
-
+\
 
 .. note::
    :class: custom-note
