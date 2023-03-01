@@ -76,7 +76,7 @@ Here, we have the basic Introduction text to Lecture 4.3
     .. raw:: html
 
         <div style="text-align:center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/p6fcvXH_j6w" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=_BlIaqGRW54&list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ&index=24" frameborder="0" allowfullscreen></iframe>
         </div>  
 
 .. raw:: html
