@@ -20,10 +20,6 @@ Lecture 4.1 -
 
 `Lecture 4.1 <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
 
-
-Lecture video 4.1
----------------
-
 .. raw:: html
 
     <div style="text-align:center">
@@ -36,12 +32,8 @@ Lecture 4.2
 
 Here, we have the basic Introduction text to Lecture 4.2
 
-Lecture 4.2 - 
----------------
-
 `Lecture 4.2 <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_ \
-Lecture Video 4.2
----------------
+
 
 .. raw:: html
 
@@ -55,13 +47,8 @@ Lecture 4.3
 --------------
 Here, we have the basic Introduction text to Lecture 4.3
 
-Lecture 4.3 - 
----------------
-
 `Lecture 4.3 <https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_
 
-Lecture Video 4.3
----------------
 .. raw:: html
 
     <div style="text-align:center">
