@@ -67,8 +67,9 @@ Lecture Video 4.3
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4jjEKJ7l9wM" frameborder="0" allowfullscreen></iframe>
     </div>  
 
-.. warning:: Tutorials
 
+.. admonition:: **Tutorials**
+   :class: custom-warning
     Here, we have the links for the tutorials for this lecture.
 
     `Tutorials 1.1 <https://colab.research.google.com/drive/1LQiOlZuJAbs8uqWmQ8hUH7gmzTh1pkUK?usp=sharing>`_
