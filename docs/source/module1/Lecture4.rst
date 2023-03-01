@@ -95,6 +95,9 @@ Here, we have the basic Introduction text to Lecture 4.3
        background-color: #f0b37e;
        padding: 5px;
    }
+    .custom-warning .admonition.warning {
+       background-color: #ffedcc;
+   }
    </style>
 
 
