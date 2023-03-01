@@ -57,10 +57,6 @@ Here, we have the basic Introduction text to Lecture 4.3
 
 \
 
-.. note::
-   :class: custom-note
-
-   This is a custom note message.
 
 .. raw:: html
 
