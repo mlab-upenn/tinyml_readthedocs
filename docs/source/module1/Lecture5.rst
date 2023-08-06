@@ -15,9 +15,6 @@ Here, we have the basic Introduction text to Lecture 5.1
    The goal of the lecture is as follows:  |
    Expected Learning time : 45 mins 
 
-Lecture 5.1 - 
----------------
-
 `Lecture 5.1 Slides <https://drive.google.com/file/d/1WOyM8XzomvAPFEQJAimAljE0tV6eSlHM/view?usp=sharing>`_
 
 .. raw:: html

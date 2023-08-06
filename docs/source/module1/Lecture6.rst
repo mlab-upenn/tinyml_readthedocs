@@ -15,7 +15,7 @@ Here, we have the basic Introduction text to Lecture 6.1
    The goal of the lecture is as follows:  |
    Expected Learning time : 50 mins 
 
-Lecture 6.1 - 
+Lecture 6.1 
 ---------------
 
 `Lecture 6.1 Slides <https://drive.google.com/file/d/1YyoreQVavA6U4_AvdaUHBOoossujjSD3/view?usp=sharing>`_

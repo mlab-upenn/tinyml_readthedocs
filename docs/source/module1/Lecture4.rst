@@ -15,9 +15,6 @@ Here, we have the basic Introduction text to Lecture 4.1
    The goal of the lecture is as follows:  |
    Expected Learning time : 45 mins 
 
-Lecture 4.1 - 
----------------
-
 `Lecture 4.1 Slides <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
 
 .. raw:: html
