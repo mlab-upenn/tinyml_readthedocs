@@ -15,9 +15,6 @@ Here, we have the basic Introduction text to Lecture 2.1
    The goal of the lecture is as follows:  |
    Expected Learning time : 25 mins 
 
-Lecture 2.1 - 
----------------
-
 `Lecture 2.1 Slides <https://drive.google.com/file/d/1aGTTj14YQheJytI58qWK_mzkNljoFrbf/view?usp=sharing>`_
 
 .. raw:: html

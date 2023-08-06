@@ -11,9 +11,6 @@ Lecture 3.1
 
 Here, we have the basic Introduction text to Lecture 3.1
 
-Lecture 3.1 - 
----------------
-
 `Lecture 3.1 <https://drive.google.com/file/d/1StmgUuQsbVqcVipNI534Vxhy6l_4hTCI/view?usp=sharing>`_
 
 
@@ -32,9 +29,6 @@ Lecture 3.2
 
 Here, we have the basic Introduction text to Lecture 3.2
 
-Lecture 3.2 - 
----------------
-
 `Lecture 3.2 <https://drive.google.com/file/d/1VzOAgAdz-Ub1TyWzSq37OCy2xMidBvo3/view?usp=sharing>`_
 
 Lecture Video 3.2
@@ -51,9 +45,6 @@ Lecture 3.3
 --------------
 Here, we have the basic Introduction text to Lecture 3.3
 
-Lecture 3.3 - 
----------------
-
 `Lecture 3.3 <https://drive.google.com/file/d/1856d4yXG6WNRNPNdvYZ_fszK1h3AcbMX/view?usp=sharing>`_
 
 Lecture Video 3.3
@@ -68,7 +59,8 @@ Tutorials
 --------------
 Here, we have the links for the tutorials for this lecture.
 
-`Tutorials 1.1 <https://colab.research.google.com/drive/1LQiOlZuJAbs8uqWmQ8hUH7gmzTh1pkUK?usp=sharing>`_
+`Tutorials 1.2 <https://colab.research.google.com/drive/1Zyrk0uBw1LnU6P8h0JXqFfuYUJ63WbkI?usp=sharing>`_
+`Tutorials 1.3 <https://colab.research.google.com/drive/1CGVTfrPWPPM7fI4JpHYO8pn1QXrSZcK_?usp=sharing>`_
 
 .. raw:: html
 
