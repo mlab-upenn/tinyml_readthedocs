@@ -47,7 +47,7 @@ Lecture 4.3
 --------------
 Here, we have the basic Introduction text to Lecture 4.3
 
-`Lecture 4.3 Slides<https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_
+`Lecture 4.3 Slides <https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_ \
 
 .. raw:: html
 
