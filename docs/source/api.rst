@@ -22,10 +22,11 @@ This is a website which contains all the information about the TinyML course bei
 Course Overview
 ------------
 
-The course is split into 3 modules and can be easily understood if followed in order. The modules are:  \
-| Module 1 - Introduction to TinyML  \
-| Module 2 - Applications in TinyML  \
-| Module 3 - Deploying TinyML  \
+The course is split into 3 modules and can be easily understood if followed in order. The modules are:  
+
+* Module 1 - Introduction to TinyML  
+* Module 2 - Applications in TinyML  
+* Module 3 - Deploying TinyML  
 
 Workflow & Grading
 ------------
@@ -39,8 +40,8 @@ The grading structure is as follows.
 
 .. image:: imgs/gradings.png
    :alt: My image
-   :width: 200
-   :height: 300
+   :width: 300
+   :height: 350
 
 Sample Projects : Fall 22
 ===========
