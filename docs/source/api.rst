@@ -13,36 +13,47 @@ Introduction
 ============
 
 
-This is a website which contains all the information about the TinyML course being taught at UPenn. 
+This is a website which contains all the information about the TinyML course being taught by Professor Rahul Mangharam at UPenn. 
 
 .. image:: imgs/tinyml.jpg
    :alt: My image
-   :width: 400
-   :align: center
-
-Main Content
-============
-
-Here's where I can add my main content, such as text, images, or links. I can use headings to organize my content:
+   :width: 600
 
 Course Overview
 ------------
 
-This is where I can add some text related to my first subheading.
+The course is split into 3 modules and can be easily understood if followed in order. The modules are:
+Module 1 - Introduction to TinyML
+Module 2 - Applications in TinyML
+Module 3 - Deploying TinyML
 
 Workflow & Grading
 ------------
+The workflow for the course is as follows.
 
-Here's where I can add text related to my second subheading.
+.. image:: imgs/workflow.png
+   :alt: My image
+   :width: 600
+
+The grading structure is as follows.
+
+.. image:: imgs/gradings.png
+   :alt: My image
+   :width: 600
 
 Sample Projects : Fall 22
 ===========
 
-Here's where I can add links to any videos I want to include on my website. I can use the `:ref:` directive to link to a specific section in my document. For example:
+Here are some sample projects from the Fall 2022 semester.
 
 * `TinyML robot <https://www.youtube.com/embed/watch?v=-Rn3QVjB8PA>`_
 * `Pedestrian light detection <https://www.youtube.com/embed/watch?v=e5NfGWAu06Q>`_
 * `DnD dice reader <https://www.youtube.com/embed/watch?v=c7OoO8QS2fg&t=1s>`_
+
+Here are some sample projects from the Spring 2023 semester.
+
+* Add projects here
+
 
 Schedule
 ==========
@@ -55,4 +66,8 @@ Schedule
 Resources
 ==========
 
-This is the resouces section to the website. Here I can wrap up any final thoughts or provide additional information for visitors.
+Here are some resources for the course.
+
+`TinyML course syllabus <https://docs.google.com/document/d/1JFby6rC18-HvJ68IxXYFiRJP9viuZWtvutVjcwHCPRc/edit>`_ \
+`Magic wand capture <https://tinyml.seas.upenn.edu/magic_wand_capture.html>`_ \
+`Open speech recording plugin <https://tinyml.seas.upenn.edu/open_speech_recording.html>`_ \
