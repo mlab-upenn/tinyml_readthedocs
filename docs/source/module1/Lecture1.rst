@@ -1,8 +1,5 @@
 Lecture 1
 ===============================
-.. |br| raw:: html
-  <br/>
-
 
 Introduction
 ------------
@@ -139,7 +136,10 @@ Here, we have the basic Introduction text to Lecture 1.7
 Required Readings 
 --------------
 Here, we have the links for the readings for this lecture.
-* `Readings 1.1 - Neural networks <https://drive.google.com/file/d/1xGuDtWLAQfYMVoof3jMrp3F6zrnTvKUW/view>`_  |br|
-* `Readings 1.2 - Convolutions 1 <https://drive.google.com/file/d/1RVE78EiuJYm5R4aIDZ3t1dCVeh253qKn/view>`_ |br|
-* `Readings 1.3 - Convolutions 2 <https://drive.google.com/file/d/1bquT_Ow7VbhLXtkuo6WfnhaChKyhlnpQ/view>`_ |br|
-* `Readings 1.4 - Mapping features to labels <https://drive.google.com/file/d/1KTztH4bt_8RCG5glQCHviAqW-qH6WqrL/view>`_ |br|
+`Readings 1.1 - Neural networks <https://drive.google.com/file/d/1xGuDtWLAQfYMVoof3jMrp3F6zrnTvKUW/view>`_  
+\
+`Readings 1.2 - Convolutions 1 <https://drive.google.com/file/d/1RVE78EiuJYm5R4aIDZ3t1dCVeh253qKn/view>`_ 
+\
+`Readings 1.3 - Convolutions 2 <https://drive.google.com/file/d/1bquT_Ow7VbhLXtkuo6WfnhaChKyhlnpQ/view>`_ 
+\
+`Readings 1.4 - Mapping features to labels <https://drive.google.com/file/d/1KTztH4bt_8RCG5glQCHviAqW-qH6WqrL/view>`_ 

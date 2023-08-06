@@ -1,7 +1,5 @@
 Lecture 4
 ===============================
-.. |br| raw:: html
-  <br/>
 
 Introduction
 ------------
