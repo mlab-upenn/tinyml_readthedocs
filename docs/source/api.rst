@@ -23,9 +23,9 @@ Course Overview
 ------------
 
 The course is split into 3 modules and can be easily understood if followed in order. The modules are:  \
-> Module 1 - Introduction to TinyML  \
-> Module 2 - Applications in TinyML  \
-> Module 3 - Deploying TinyML  \
+| Module 1 - Introduction to TinyML  \
+| Module 2 - Applications in TinyML  \
+| Module 3 - Deploying TinyML  \
 
 Workflow & Grading
 ------------
@@ -39,8 +39,8 @@ The grading structure is as follows.
 
 .. image:: imgs/gradings.png
    :alt: My image
-   :width: 300
-   :height: 600
+   :width: 200
+   :height: 300
 
 Sample Projects : Fall 22
 ===========
@@ -70,22 +70,22 @@ Here are the staff members for the course.
 
 Fall 2022
 ---------
-> Manasa Sathyan
-> Tejas Agarwal
+* Manasa Sathyan
+* Tejas Agarwal
 
 Spring 2023
 ---------
-> Manasa Sathyan
-> Tejas Agarwal
+* Manasa Sathyan
+* Tejas Agarwal
 
 Resources
 ==========
 
 Here are some resources for the course.
 
-> `TinyML course syllabus <https://docs.google.com/document/d/1JFby6rC18-HvJ68IxXYFiRJP9viuZWtvutVjcwHCPRc/edit>`_ \
-> `Magic wand capture <https://tinyml.seas.upenn.edu/magic_wand_capture.html>`_ \
-> `Open speech recording plugin <https://tinyml.seas.upenn.edu/open_speech_recording.html>`_ \
+* `TinyML course syllabus <https://docs.google.com/document/d/1JFby6rC18-HvJ68IxXYFiRJP9viuZWtvutVjcwHCPRc/edit>`_ 
+* `Magic wand capture <https://tinyml.seas.upenn.edu/magic_wand_capture.html>`_ 
+* `Open speech recording plugin <https://tinyml.seas.upenn.edu/open_speech_recording.html>`_ 
 
 **Site developed & maintained - Tejas Agarwal**
 
