@@ -69,22 +69,22 @@ Here are the staff members for the course.
 
 Fall 2022
 ---------
-Manasa Sathyan
-Tejas Agarwal
+> Manasa Sathyan
+> Tejas Agarwal
 
 Spring 2023
 ---------
-Manasa Sathyan
-Tejas Agarwal
+> Manasa Sathyan
+> Tejas Agarwal
 
 Resources
 ==========
 
 Here are some resources for the course.
 
-`TinyML course syllabus <https://docs.google.com/document/d/1JFby6rC18-HvJ68IxXYFiRJP9viuZWtvutVjcwHCPRc/edit>`_ \
-`Magic wand capture <https://tinyml.seas.upenn.edu/magic_wand_capture.html>`_ \
-`Open speech recording plugin <https://tinyml.seas.upenn.edu/open_speech_recording.html>`_ \
+> `TinyML course syllabus <https://docs.google.com/document/d/1JFby6rC18-HvJ68IxXYFiRJP9viuZWtvutVjcwHCPRc/edit>`_ \
+> `Magic wand capture <https://tinyml.seas.upenn.edu/magic_wand_capture.html>`_ \
+> `Open speech recording plugin <https://tinyml.seas.upenn.edu/open_speech_recording.html>`_ \
 
 **Site developed & maintained - Tejas Agarwal**
 
