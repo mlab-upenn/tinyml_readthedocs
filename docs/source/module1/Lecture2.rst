@@ -18,7 +18,7 @@ Here, we have the basic Introduction text to Lecture 2.1
 Lecture 2.1 - 
 ---------------
 
-`Lecture 2.1 Slides <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
+`Lecture 2.1 Slides <https://drive.google.com/file/d/1aGTTj14YQheJytI58qWK_mzkNljoFrbf/view?usp=sharing>`_
 
 .. raw:: html
 
@@ -31,7 +31,7 @@ Lecture 2.2
 
 Here, we have the basic Introduction text to Lecture 2.2
 
-`Lecture 2.2 Slides <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_ \
+`Lecture 2.2 Slides <https://drive.google.com/file/d/1oWZIQdL95m9IE4RePQa7u2HTXuFb42uJ/view?usp=sharing>`_ \
 
 
 .. raw:: html
@@ -46,7 +46,7 @@ Lecture 2.3
 --------------
 Here, we have the basic Introduction text to Lecture 2.3
 
-`Lecture 2.3 Slides <https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_ \
+`Lecture 2.3 Slides <https://drive.google.com/file/d/1oWZIQdL95m9IE4RePQa7u2HTXuFb42uJ/view?usp=sharing>`_ \
 
 .. raw:: html
 
@@ -55,6 +55,35 @@ Here, we have the basic Introduction text to Lecture 2.3
     </div>  
 
 \
+
+Lecture 2.4
+--------------
+Here, we have the basic Introduction text to Lecture 2.4
+
+`Lecture 2.4 Slides <https://drive.google.com/file/d/11xjZkEZDH8OSwRQrzj8AZRreBg27o8dN/view?usp=sharing>`_ \
+
+.. raw:: html
+
+    <div style="text-align:center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iLf8BOjuesE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>  
+
+\
+
+Lecture 2.5
+--------------
+Here, we have the basic Introduction text to Lecture 2.5
+
+`Lecture 2.5 Slides <https://drive.google.com/file/d/1egdPkRlbnVYqJZ1iqAPIBYoGku-YBNeq/view?usp=sharing>`_ \
+
+.. raw:: html
+
+    <div style="text-align:center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sUN1mCHcsso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>  
+
+\
+
 
 
 .. raw:: html
