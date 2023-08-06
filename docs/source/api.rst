@@ -60,6 +60,10 @@ Here are some sample projects from the Spring 2023 semester.
 Schedule
 ==========
 
+Here is the schedule for the course.
+
+`Schedule Sheets link <https://docs.google.com/spreadsheets/d/1W46Tdvitc-Dxwv-J728meSnXdbj1q3oCP_eO0Czo4Sk/edit#gid=0>`_
+
 .. raw:: html
 
    <iframe src="https://docs.google.com/spreadsheets/d/15NhWs41SMqgMNtThJUJDJ5nqhBOybxX-Ll4fhEmHe-g/edit?usp=sharing" width="600" height="400"></iframe>
