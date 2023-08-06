@@ -40,7 +40,7 @@ The grading structure is as follows.
 
 .. image:: imgs/gradings.png
    :alt: My image
-   :width: 300
+   :width: 400
    :height: 350
 
 Sample Projects : Fall 22
