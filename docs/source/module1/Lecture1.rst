@@ -85,6 +85,7 @@ Here, we have the basic Introduction text to Lecture 1.6
 `Lecture 1.6 Slides <https://drive.google.com/file/d/1yQUsmxPN1kKY_ui9pnfTv0KXizh8YkGU/view?usp=sharing>`_
 
 .. raw:: html
+    
     <iframe width="560" height="315" src="https://www.youtube.com/embed/aVnYkvGm_Cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \

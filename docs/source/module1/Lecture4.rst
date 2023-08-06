@@ -20,7 +20,7 @@ Here, we have the basic Introduction text to Lecture 4.1
 Lecture 4.1 - 
 ---------------
 
-`Lecture 4.1 <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
+`Lecture 4.1 Slides <https://drive.google.com/file/d/1efZOhoFchPqCvyEtmZwWTF6bm0TL-zy4/view?usp=sharing target="_blank">`_
 
 .. raw:: html
 
@@ -34,7 +34,7 @@ Lecture 4.2
 
 Here, we have the basic Introduction text to Lecture 4.2
 
-`Lecture 4.2 <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_ \
+`Lecture 4.2 Slides <https://drive.google.com/file/d/1oPXd-RcxYLTQmDyXGBcKMFz16AKZRxeJ/view?usp=sharing target="_blank">`_ \
 
 
 .. raw:: html
@@ -49,7 +49,7 @@ Lecture 4.3
 --------------
 Here, we have the basic Introduction text to Lecture 4.3
 
-`Lecture 4.3 <https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_
+`Lecture 4.3 Slides<https://drive.google.com/file/d/1qoRwcw_YFWWwfEvgGs3NoZSCJxrgyBCk/view?usp=sharing target="_blank">`_
 
 .. raw:: html
 
@@ -73,7 +73,7 @@ Here, we have the basic Introduction text to Lecture 4.3
 
     Here, we have the links for the tutorials for this lecture. Click on the link below to open the colab file.
 
-    `Tutorials 1.4  Colab <https://colab.research.google.com/drive/1uq1a2_Z7y8pcXcqdy_M1fdI5YRN37Fei?usp=sharing>`_
+    `Tutorials 1.4 Colab <https://colab.research.google.com/drive/1uq1a2_Z7y8pcXcqdy_M1fdI5YRN37Fei?usp=sharing>`_
 
 
     .. raw:: html
@@ -100,7 +100,10 @@ Here, we have the basic Introduction text to Lecture 4.3
 Required Readings 
 --------------
 Here, we have the links for the readings for this lecture.
-* `Readings 1.8 - Neural networks <https://drive.google.com/file/d/1xGuDtWLAQfYMVoof3jMrp3F6zrnTvKUW/view>`_ |br|
-* `Readings 1.9 - Convolutions 1 <https://drive.google.com/file/d/1RVE78EiuJYm5R4aIDZ3t1dCVeh253qKn/view>`_ |br|
-* `Readings 1.10 - Convolutions 2 <https://drive.google.com/file/d/1bquT_Ow7VbhLXtkuo6WfnhaChKyhlnpQ/view>`_ |br|
-* `Readings 1.11 - Mapping features to labels <https://drive.google.com/file/d/1KTztH4bt_8RCG5glQCHviAqW-qH6WqrL/view>`_ |br|
+`Readings 1.8 - Neural networks <https://drive.google.com/file/d/1xGuDtWLAQfYMVoof3jMrp3F6zrnTvKUW/view>`_  
+\
+`Readings 1.9 - Convolutions 1 <https://drive.google.com/file/d/1RVE78EiuJYm5R4aIDZ3t1dCVeh253qKn/view>`_  
+\
+`Readings 1.10 - Convolutions 2 <https://drive.google.com/file/d/1bquT_Ow7VbhLXtkuo6WfnhaChKyhlnpQ/view>`_  
+\
+`Readings 1.11 - Mapping features to labels <https://drive.google.com/file/d/1KTztH4bt_8RCG5glQCHviAqW-qH6WqrL/view>`_  
