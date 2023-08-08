@@ -49,7 +49,7 @@ Here, we have the basic Introduction text to Lecture 6.3
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WluecAFcWsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YymnYxejlG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \
 
@@ -66,7 +66,7 @@ Here, we have the basic Introduction text to Lecture 6.3
 
     Here, we have the links for the tutorials for this lecture. 
 
-    * `Tutorial documents 3.10 - Training and Deploying Magic wand<https://drive.google.com/file/d/1Kbrhdi-eQ47F0Q8LZrND2O6i2Z0-hCJY/view?usp=share_link>`_  
+    * `Tutorial documents 3.10 - Training and Deploying Magic wand <https://drive.google.com/file/d/1Kbrhdi-eQ47F0Q8LZrND2O6i2Z0-hCJY/view?usp=share_link>`_  
     * `Tutorial documents 3.11 - Custom dataset collection Magic wand <https://drive.google.com/file/d/1bh0oeK_IndMs94mi1uJXPztanANnjiVo/view?usp=share_link>`_  
     * `Tutorial documents 3.12 - Deploying a multi tenant model <https://drive.google.com/file/d/19ccFoAcznzCCecRTjLkfKQvHDs8VEYsX/view?usp=share_link>`_  
 
@@ -76,7 +76,7 @@ Here, we have the basic Introduction text to Lecture 6.3
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EmkUbwE4NAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/EmkUbwE4NAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lPL8PyylLck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/w2s2OWSoQzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
