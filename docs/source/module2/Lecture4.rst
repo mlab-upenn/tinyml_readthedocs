@@ -95,7 +95,7 @@ Here, we have the basic Introduction text to Lecture 4.7
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CMi1h9hSvCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XD8qv8saFFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \
 
@@ -107,7 +107,7 @@ Here, we have the basic Introduction text to Lecture 4.8
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/XD8qv8saFFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tZ2kQZ46cJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \
 

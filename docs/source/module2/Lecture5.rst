@@ -22,7 +22,7 @@ Lecture 5.1 -
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tZ2kQZ46cJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NydG2l9KIUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 \
 
 Lecture 5.2
@@ -35,7 +35,7 @@ Here, we have the basic Introduction text to Lecture 5.2
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/NydG2l9KIUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WGVTFqdDQX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \
 
@@ -47,7 +47,7 @@ Here, we have the basic Introduction text to Lecture 5.3
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WGVTFqdDQX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vMAqfnfRaRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \
 
