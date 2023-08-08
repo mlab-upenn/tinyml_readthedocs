@@ -90,7 +90,7 @@ Here, we have the basic Introduction text to Lecture 2.5
 
     Here, we have the links for the tutorials for this lecture. 
 
-    * `Tutorials 3.5 TFLM <https://drive.google.com/file/d/1v8s9-vlLFVjpmoxzQumiX8JXXFE-r0su/view?usp=sharingg>`_
+    * `Tutorials 3.5 TFLM <https://drive.google.com/file/d/1v8s9-vlLFVjpmoxzQumiX8JXXFE-r0su/view?usp=sharing>`_
     * `Tutorial 3.6 Testing sensors <https://drive.google.com/file/d/1lViXl-2A9WaGuYv4z_AqCEhlaIpc71xp/view?usp=sharing>`_
     * `Utility Image Viewer <https://colab.research.google.com/drive/1e8CDV8imQYmh05yvYrxcwY6YxOAcCZT6?usp=sharing>`_
 
