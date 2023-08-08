@@ -88,6 +88,7 @@ Resources
 
 Here are some resources for the course.
 
+* `TinyML github <https://github.com/mlab-upenn/ESE360_TinyML>`_
 * `TinyML course syllabus <https://docs.google.com/document/d/1JFby6rC18-HvJ68IxXYFiRJP9viuZWtvutVjcwHCPRc/edit>`_ 
 * `Magic wand capture <https://tinyml.seas.upenn.edu/magic_wand_capture.html>`_ 
 * `Open speech recording plugin <https://tinyml.seas.upenn.edu/open_speech_recording.html>`_ 

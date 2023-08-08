@@ -88,16 +88,18 @@ Here, we have the basic Introduction text to Lecture 2.5
 .. admonition:: **Tutorials**
    :class: custom-warning
 
-    Here, we have the links for the tutorials for this lecture. Click on the link below to open the colab file.
+    Here, we have the links for the tutorials for this lecture. 
 
     * `Tutorials 3.5 TFLM <https://drive.google.com/file/d/1v8s9-vlLFVjpmoxzQumiX8JXXFE-r0su/view?usp=sharingg>`_
     * `Tutorial 3.6 Testing sensors <https://drive.google.com/file/d/1lViXl-2A9WaGuYv4z_AqCEhlaIpc71xp/view?usp=sharing>`_
-    * `Utility Image Viewer "https://colab.research.google.com/drive/1e8CDV8imQYmh05yvYrxcwY6YxOAcCZT6?usp=sharing"`_
+    * `Utility Image Viewer <https://colab.research.google.com/drive/1e8CDV8imQYmh05yvYrxcwY6YxOAcCZT6?usp=sharing>`_
 
 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/F_IrSQ5NcuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/p_nIFAiQpsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 .. raw:: html
 
@@ -121,6 +123,6 @@ Required Readings
 Here, we have the links for the readings for this lecture. 
 
 
-* `Readings 1.1 - Finding Patterns <https://drive.google.com/file/d/14XXeEwBrchbASsbkLzqyhdMjEopjFdW_/view?usp=sharing>`_  
-* `Readings 1.2 - Neural networks <https://drive.google.com/file/d/1JfPxqSkd7ZpsQJszMUMxwivGJC71zFEk/view?usp=sharing>`_  
+* `Readings 3.3 - Powering your system <https://drive.google.com/file/d/14XXeEwBrchbASsbkLzqyhdMjEopjFdW_/view?usp=sharing>`_  
+* `Readings 3.4 - Embedded Systems <https://drive.google.com/file/d/1JfPxqSkd7ZpsQJszMUMxwivGJC71zFEk/view?usp=sharing>`_  
 

@@ -11,4 +11,5 @@ Module 3
    Lecture3
    Lecture4
    Lecture5
+   Lecture6
 

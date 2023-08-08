@@ -51,7 +51,7 @@ Here, we have the basic Introduction text to Lecture 1.2
 .. admonition:: **Tutorials**
    :class: custom-warning
 
-    Here, we have the links for the tutorials for this lecture. Click on the link below to open the colab file.
+    Here, we have the links for the tutorials for this lecture. 
 
     * `Tutorial documents 3.1 - Hardware Assembly <https://drive.google.com/file/d/13Qg7i-oI-oDiE8o2nPHrKHFQWteZ34lo/view?usp=sharing>`_  
     * `Tutorial documents 3.2 - Software Assembly <https://drive.google.com/file/d/1pb2tMz1E8QVL2_7rUpSSz6QYH79ulZQd/view?usp=sharing>`_
